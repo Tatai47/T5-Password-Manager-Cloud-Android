@@ -18,7 +18,7 @@
 
 <br>
 
-> **T5 Password Manager** is designed to keep your digital life secure on the go. By utilizing industry-standard local encryption, autofill capabilities, and a distraction-free UI, it ensures your sensitive data is always protected and easily accessible.
+> **T5 Password Manager** is designed to keep your digital life secure on the go. By utilizing industry-standard local encryption, and a distraction-free UI, it ensures your sensitive data is always protected and easily accessible. 
 
 ---
 
