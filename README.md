@@ -12,13 +12,13 @@
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 </div>
-<a href="https://github.com/Tatai47/T5-Password-Manager-Cloud-Android/raw/bee5c5c9b9c2cb035491ba793a5df63e11e2f069/T5%20Password%20Manager%20Cloud%20Android.apk">
-  <img src="https://img.shields.io/badge/Download-For_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android">
-</a>
 
 <br>
 
 > **T5 Password Manager** is designed to keep your digital life secure on the go. By utilizing industry-standard local encryption, and a distraction-free UI, it ensures your sensitive data is always protected and easily accessible. 
+<a href="https://github.com/Tatai47/T5-Password-Manager-Cloud-Android/raw/bee5c5c9b9c2cb035491ba793a5df63e11e2f069/T5%20Password%20Manager%20Cloud%20Android.apk">
+  <img src="https://img.shields.io/badge/Download-For_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android">
+</a>
 
 ---
 
