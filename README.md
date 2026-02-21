@@ -36,11 +36,11 @@
 
 | Login Screen | Password Vault | Data Entry |
 | :---: | :---: | :---: |
-| <img src="images/login-screen.jpg" alt="login-screen" width="200"/> | <img src="images/vault-screen.jpg" alt="Vault" width="200"/> | <img src="images/data-entry-screen.jpg" alt="Generator" width="200"/> |
+| <img src="Images/login-screen.jpg" alt="login-screen" width="200"/> | <img src="Images/vault-screen.jpg" alt="Vault" width="200"/> | <img src="Images/data-entry-screen.jpg" alt="Generator" width="200"/> |
 | Loading Screen | Create Password Vault | Vault Login |
-| <img src="images/loading-screen.jpg" alt="loding-screen" width="200"/> | <img src="images/vault-setup-screen.jpg" alt="Vault setup" width="200"/> | <img src="images/vault-login-screen.jpg" alt="Vault Login" width="200"/> | 
+| <img src="Images/loading-screen.jpg" alt="loding-screen" width="200"/> | <img src="Images/vault-setup-screen.jpg" alt="Vault setup" width="200"/> | <img src="Images/vault-login-screen.jpg" alt="Vault Login" width="200"/> | 
 | Reset Vault |
-<img src="images/vault-reset-screen.jpg" alt="Reset Vault" width="200"/>
+<img src="Images/vault-reset-screen.jpg" alt="Reset Vault" width="200"/>
 ---
 
 ## 🛠 Tech Stack
