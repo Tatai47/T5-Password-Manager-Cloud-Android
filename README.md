@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/150" alt="T5 Password Manager Logo" width="120" height="120">
+  <img src="T5-logo.png" alt="T5 Password Manager Logo" width="120" height="120">
 
   # T5 Password Manager - Android 📱
 
