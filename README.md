@@ -2,7 +2,7 @@
 
   <img src="T5-logo.png" alt="T5 Password Manager Logo" width="120" height="120">
 
-  # T5 Password Manager - Android 📱
+  # T5 Password Manager Cloud - Android 📱
 
   *Secure, lightweight, and intuitive credential management for your Android device.*
 
